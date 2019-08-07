@@ -21,3 +21,6 @@ Here is where I will be posting any experiments regarding the fastai library bef
   
 ### Test Set Generation
   * A walkthrough on how to generate labeled test-sets in the fastai library and integrate them into a Learner
+
+### MixUp Tabular
+  * An attempt at using MixUp for tabular problems. Did not improve accuracy
