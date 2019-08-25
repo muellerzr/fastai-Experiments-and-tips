@@ -24,3 +24,6 @@ Here is where I will be posting any experiments regarding the fastai library bef
 
 ### MixUp Tabular
   * An attempt at using MixUp for tabular problems. Did not improve accuracy
+
+### Spacy with SentencePiece
+  * Working to try a 4-part ensemble for the IMDB dataset utilizing Spacy and SentencePiece tokenization on forwards and backwards models
