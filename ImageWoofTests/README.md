@@ -26,5 +26,5 @@ Both tests used an average of five total runs and recorded is the results from e
 | Acc3 | 84.2% | 82.6% | 85.4% |
 | Acc4 | 82.8% | 82.2% | 83.6% |
 | Acc5 | 84.8% | 82.4% | 84.8% |
-| **Mean** | 83.76% | 82.56% | 84.64% |
+| **Mean** | 83.76% | 82.56% | **84.64%** |
 | **Std** | 0.70% | 0.44% | 0.66% |
